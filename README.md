@@ -8,4 +8,5 @@ Column C, D, E, and F are capacitance, voltage, energy, and power, respectively.
 Different parameters may be used upon demand. In this case, index and column names should be changed accordinlgy.
 
 Example results are shown below:
+
 ![Capacitance](C:\Users\Myeong-Lok Seol\Code\SC-array-performance-mapping\example-C.png)
