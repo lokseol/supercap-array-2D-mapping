@@ -7,6 +7,10 @@ Prepare the 2D data.xlsx file. Column A and B need to be changed according to th
 Column C, D, E, and F are capacitance, voltage, energy, and power, respectively. 
 Different parameters may be used upon demand. In this case, index and column names should be changed accordinlgy.
 
-Example results are shown below:
+## Example results
+These example results should show when you run 'CVEP-color-maps.ipynb'
 
 ![Capacitance](example-C.png)
+![Voltage](example-V.png)
+![Energy](example-E.png)
+![Power](example-P.png)
