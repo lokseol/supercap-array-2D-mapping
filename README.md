@@ -9,4 +9,4 @@ Different parameters may be used upon demand. In this case, index and column nam
 
 Example results are shown below:
 
-![Capacitance](C:\Users\Myeong-Lok Seol\Code\SC-array-performance-mapping\example-C.png)
+![Capacitance](example-C.png)
